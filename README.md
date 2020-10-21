@@ -3,7 +3,7 @@ Top-Down RPG-Prototype
 
 To start the Script just open it in Windows Powershell and make sure it is in the same folder as "Screen1.txt".
 
-The playing field is stored in "Screen.txt" and can be edited as yuo wish.
+The playing field is stored in "Screen.txt" and can be edited as you wish.
 
 The default color- / character-code is:
 Water: '~' (blue)
