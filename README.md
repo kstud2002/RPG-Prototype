@@ -1,5 +1,5 @@
 # RPG-Prototype
-Top-Down RPG-Prototype
+Top-Down RPG-Prototype in Powershell
 
 To start the Script just open it in Windows Powershell and make sure it is in the same folder as "Screen1.txt".
 
